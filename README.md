@@ -2,7 +2,7 @@
 # Project Title:- Analyse Historical Insurance Claim Data
 
 ## Description
-Theobjective of your analyses is to help optimise the marketing strategy as well as discover
+The objective of your analyses is to help optimise the marketing strategy as well as discover
 “low-risk” targets for which the premium could be reduced, hence an opportunity to attract new clients.
 
 ## Installation
